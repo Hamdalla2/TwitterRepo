@@ -10,8 +10,8 @@
 - Deployment : Firebase
 
 ## Links ##
-- frontend : https://twittrer2.web.app/
-- backend: https://twittrer.herokuapp.com/
+- frontend : https://twittrer2.web.app
+- backend: https://twittrer.herokuapp.com
 
 ## New code lines used ##
 - to deploy docker to heroku
